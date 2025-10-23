@@ -1,4 +1,4 @@
-<img width="800" height="138" alt="nias-logo-color" src="https://github.com/user-attachments/assets/f023e8fb-94f7-4949-819e-baccd468e1a4" />
+[![Nagasaki Institute of Applied Science](https://github.com/user-attachments/assets/f023e8fb-94f7-4949-819e-baccd468e1a4)](https://www.nias.ac.jp/)
 
 # IoT and Physics Measurement Technology Group
 
